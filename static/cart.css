@@ -1,0 +1,33 @@
+* {
+    font-family: "Crimson Text";
+}
+
+#cart h1 {
+    text-align: center;
+    font-family: "Crimson Text";
+    padding: 3%;
+}
+
+#cart-header-item {
+    width: 25%;
+}
+
+#cart-header-item-desc {
+    width: 15%;
+}
+
+#cart-header-price {
+    width: 10%;
+}
+
+#cart-header-quantity {
+    width: 10%;
+}
+
+#cart-header-subtotal{
+    width: 20%;
+}
+
+.item-images {
+    max-width: 70%;
+}
